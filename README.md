@@ -1,6 +1,6 @@
-# GeoEstate
+# GeoEstate_API
 
-GeoEstate is an advanced real estate property search platform with a dynamic map feature that enables users to filter properties by drawing geometric shapes. 
+GeoEstate_API is an advanced real estate property search platform with a dynamic map feature that enables users to filter properties by drawing geometric shapes. 
 
 ## Features
 - Users can draw **rectangles, circles, and polygons** to filter properties.
